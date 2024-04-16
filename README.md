@@ -3,6 +3,6 @@
 # Постигаю JavaScript и TypeScript в рамках React-проектов.
 ### Помогаю в разработке веб-приложения статистики к мобильной игре [WORLD OF TANKS BLITZ](https://ru.wotblitz.com/ru/#/).
 
-[RoyalArena](http://royalarena.ru/) - это наша совместная разработка с [Владом](https://github.com/hixozeN) и [Сашей](https://github.com/mirvada) (в ближайшее время состоится релиз).
+[BlitzStats](https://blitzstats.ru/) - это наша совместная разработка с [Владом](https://github.com/hixozeN) и [Сашей](https://github.com/mirvada) (в ближайшее время состоится релиз).
 
 
